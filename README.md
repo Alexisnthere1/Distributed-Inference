@@ -29,7 +29,7 @@ movements, religious communities (Amish, monastic orders). Ecovillages consisten
 contribution rates, and the common factor researchers identify is the combination of genuine
 belonging and meaningful representation in decision-making. People build, maintain, sacrifice, and
 create for communities they feel are genuinely theirs.
-## The principles underlying DI have been observed working in practice across centuries and cultures
+The principles underlying DI have been observed working in practice across centuries and cultures
 by researchers studying commons that survived. Elinor Ostrom's Nobel Prize-winning analysis of
 commons governance identified the same design principles this document outlines. That
 convergence is offered as the most honest available answer to the question of whether any of this
@@ -43,7 +43,7 @@ becomes a mesh of interconnected DIMs: geographic communities and functional ser
 coordinating laterally without centralised control. This could span thousands of communities and
 potentially millions of people through gradual adoption as communities choose systems that serve
 them better than existing alternatives.
-### We are at a critical juncture. Representative democracy designed for 18th century constraints cannot
+We are at a critical juncture. Representative democracy designed for 18th century constraints cannot
 handle the coordination challenges of unprecedented complexity: climate requiring global
 cooperation, economic concentration, institutional trust collapse, and information warfare. Too
 often, the responses: authoritarian strongmen, revolutionary collectivisation, and mass apathy are
@@ -67,7 +67,7 @@ Society is currently captured into a closed loop because it is built on fear and
 Monopolies and their clauses are an attempt to hold against loss, to instil an immovable status quo
 with the pressure of their self-bias. The commons from which the skills and generative knowledge
 are sourced is seen as a surface of capture for the sake of capital protection.
-# Representative systems did not become capital-first by accident. The funding of elections,
+Representative systems did not become capital-first by accident. The funding of elections,
 ownership of media ecosystems, and the architecture of lobbying were not corruptions of an
 otherwise neutral system, but acts of self-interest by people with the resources and foresight to
 shape the rules of the game before the game was settled. Self-interest operating at the level of
